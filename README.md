@@ -1,5 +1,7 @@
 # Background_infraredLight_filtering
-This repository contains code outlining a method for filtering background infrared light from the input of infrared sensors. The main file, `double_source_data_analysis.ipynb`, contains a complete description of the process, however it is best viewed on Google Colab as there are several images linked from URLs that do not preview here on GitHub. (There should be a link to open the notebook on Colab).
+This repository contains code outlining a method for filtering background infrared light from the input of infrared sensors. The main file, `double_source_data_analysis.ipynb`, contains a complete description of the process, however it is best viewed on Google Colab as there are several images linked from URLs that do not preview here on GitHub. (There should be a link to open the notebook on Colab). 
+
+The file `background_pulse_filter_test_simple.ino` contains an Arduino implementation of the result that works effectively in real-time.
 
 Sample of digrams/data visualisations:
 
