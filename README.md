@@ -3,7 +3,7 @@ This repository contains code outlining a method for filtering background infrar
 
 Sample of digrams/data visualisations:
 
-<img align="middle" src="Untitled Diagram.png" alt="drawing1" width="700"/>
+<img align="middle" src="basic_IR_filter_process.png" alt="drawing1" width="700"/>
 
 <img align="middle" src="expected_vs_measured_peak.png" alt="drawing1" width="700"/>
 
