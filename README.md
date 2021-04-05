@@ -5,10 +5,10 @@ The file `background_pulse_filter_test_simple.ino` contains an Arduino implement
 
 Sample of digrams/data visualisations:
 
-<img align="middle" src="basic_IR_filter_process.png" alt="drawing1" width="700"/>
+<img align="middle" src="/images/basic_IR_filter_process.png" alt="drawing1" width="700"/>
 
-<img align="middle" src="expected_vs_measured_peak.png" alt="drawing1" width="700"/>
+<img align="middle" src="/images/expected_vs_measured_peak.png" alt="drawing1" width="700"/>
 
-<img align="middle" src="IR_source_1_deviation.png" alt="drawing1" width="700"/>
+<img align="middle" src="/images/IR_source_1_deviation.png" alt="drawing1" width="700"/>
 
-<img align="middle" src="final_line_plot.png" alt="drawing1" width="700"/>
+<img align="middle" src="/images/final_line_plot.png" alt="drawing1" width="700"/>
