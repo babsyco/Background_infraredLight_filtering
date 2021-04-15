@@ -1,5 +1,5 @@
 # Background_infraredLight_filtering
-This repository contains code outlining a method for filtering background infrared light from the input of infrared sensors, using a two-stage sampling process and a fitted 2-dimensional polynomial. The main file, `double_source_data_analysis.ipynb`, contains a complete description of the process, however it is best viewed on Google Colab as there are several images linked from URLs that do not preview here on GitHub. (When viewing the file on Github there should be a link to open it in Colab). The remaining repository structure is:
+This repository contains code outlining a method for filtering background infrared light from the input of infrared sensors, using a two-stage sampling process and a fitted 2-dimensional polynomial. The main file, `double_source_data_analysis.ipynb`, contains a complete description of the process, however it is best viewed on Google Colab as there are several images linked from URLs that do not preview here on GitHub. (When viewing the file on Github there should be a link to open it in Colab - although it might take a few reloads to render!). The remaining repository structure is:
 
 * `arduino_code`
   * `double_IRsource_data_aquisition.ino`: the arduino file used to gather the data, as described in the Colab notebook.
